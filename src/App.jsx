@@ -17,6 +17,7 @@ const App = () => {
           <h1>Find <span className='text-gradient'>Movies</span> you love without any hassle</h1>
                 
           <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+          A little change
 
           
 
